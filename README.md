@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pikapokec.
-- 👀 I’m interested in ... leisure.
+- 👀 I'm interested in ... cycling.
 - 🌱 I’m currently learning .NET Core.
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... ... ...
