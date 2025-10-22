@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pikapokec.
-- 👀 I'm interested in ... cycling.
+- 👀 I'm interested in ... guitars.
 - 🌱 I’m currently sick of .NET Core. Java rules !!!
 - 💞️ I’m looking to collaborate on ... nothing.
 - 📫 How to reach me ... ... ... please don't.
